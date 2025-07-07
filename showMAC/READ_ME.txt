@@ -1,0 +1,1 @@
+This code is used to display the MAC address of an ESP32
