@@ -13,7 +13,7 @@ Invoca a generateFakeData y grafica el vector de comandos.
 Ejecutar únicamente después de haber ejecutado a preTestRT.m y cuando se tenga conectada la ESP32 de la pinza robótica. De otra forma, el programa mandará a error.
 
 
-**El archivo testSpyderConnection.py realiza la tarea de los tres archivos anteriores, pero desde Python. Igualmente, se tiene que conectar la ESP32 conectada cuando se ejecuté.*
+**El archivo testSpyderConnection.py realiza la tarea de los tres archivos anteriores, pero desde Python. Igualmente, se tiene que conectar la ESP32 cuando se ejecute.*
 
 **Final_Code_Gripper**
 - codigoFinal.ino :  
