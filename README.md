@@ -50,5 +50,5 @@ Cada enlace corresponde a los distintos subsistemas o componentes que integran e
 2. Guarda el archivo en tu equipo.
 3. Abre el archivo directamente en **Fusion 360** para visualizar o editar el diseño.
 
-> **Nota:** Es posible que se requiera iniciar sesión en Autodesk para acceder a algunos enlaces.
+> **Nota:** Se requiere introducir un correo para descargar los modelos CAD.
 
