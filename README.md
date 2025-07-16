@@ -17,6 +17,6 @@
 - Proyecto_EasyEDA_Brazalete_Háptico.zip :  
   Archivo comprimido que contiene el proyecto completo en formato EasyEDA, incluyendo el esquemático y el diseño de la PCB. Este archivo permite realizar modificaciones o revisiones al diseño directamente en la plataforma EasyEDA.
 
-**PCB_Haptic_Bracelet**
+**showMAC**
 - showMAC.ino :  
   Este archivo contiene un código diseñado en Arduino IDE diseñado para obtener y mostrar la dirección MAC del módulo ESP32.
