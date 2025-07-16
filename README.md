@@ -1,6 +1,6 @@
 # CAD_Models – Archivos 3D y Diagramas
 
-Este repositorio contiene los modelos 3D (`.stl`) y diagramas de referencia de los diferentes **subsistemas** que conforman el sistema completo.  
+Esta rama contiene los modelos 3D (`.stl`) y diagramas de referencia de los diferentes **subsistemas** que conforman el sistema completo.  
 Cada subsistema está organizado en carpetas independientes que incluyen:
 
 - Archivos `.stl` de cada pieza.
